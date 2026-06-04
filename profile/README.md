@@ -1,3 +1,8 @@
+<img src="https://github.com/CC26-PSU016-Teemo/.github/blob/main/profile/teemo-logo.jpg" width="200">
+
+
+
+
 # TEEMO - CC26-PSU016 - Coding Camp 2026 powered by DBS Foundation
 
 ## Apa itu TEEMO?
